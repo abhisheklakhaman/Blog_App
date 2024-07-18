@@ -10,7 +10,6 @@ This project is a web application for managing blog posts with user roles and au
 
 ## Project Structure
 
-
 Sure, here's a README.md file that outlines the steps and details for your Blog Application project:
 
 markdown
@@ -24,7 +23,7 @@ This project is a web application for managing blog posts with user roles and au
 - Java Servlets (backend)
 - JSP (frontend)
 - MySQL Database
-- BCrypt for password hashing
+
 
 ## Project Structure
 BlogApp/
@@ -53,12 +52,12 @@ BlogApp/
 │ ├── META-INF/
 │ ├── WEB-INF/
 │ │ ├── lib/
-│ │ │ ├── jbcrypt-0.4.jar
+│ │ │ 
 │ │ ├── web.xml
-│ ├── css/
-│ │ ├── styles.css
+│ │
+│ │ 
 │ ├── js/
-│ │ ├── scripts.js
+│ │ 
 │ ├── admin_dashboard.jsp
 │ ├── viewer_index.jsp
 │ ├── login.jsp
