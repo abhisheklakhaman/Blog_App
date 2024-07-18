@@ -7,7 +7,6 @@ This project is a web application for managing blog posts with user roles and au
 - Java Servlets (backend)
 - JSP (frontend)
 - MySQL Database
-- BCrypt for password hashing
 
 ## Project Structure
 
